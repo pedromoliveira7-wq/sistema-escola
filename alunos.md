@@ -2,7 +2,7 @@
 
 
 
-Exemplo: 
+Exemplo:
 
 | Ana Souza | RM: 2025001 | feature/ana-souza |
 
@@ -12,5 +12,5 @@ Exemplo:
 
 Lista:
 
-| Ana Souza | RM: 2025001 | feature/ana-souza |
+| Pedro Miguel | RM: 2965 | feature/Pedro-M |
 
